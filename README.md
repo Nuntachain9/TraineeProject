@@ -16,3 +16,8 @@
   เวอร์ชั่น Node ที่ใช้ในการ Run Project Version 22.14.0
   - เข้า Directory frontend เพื่อติดตั้ง Dependencies ต่าง ๆ npm install จากนั้น Run npm run serve
   - เข้า Directory backend เพื่อติดตั้ง Dependencies ต่าง ๆ npm install จากนั้น Run node server.js
+
+## Username Password ทดลองใช้งาน
+
+ - Username: test1 Password: 999
+ - Username: test2 Password: 888
