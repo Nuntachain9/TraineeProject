@@ -12,11 +12,12 @@
  - Backend: Node.js, Express.js
  - Database: MongoDB
 
-### ขั้นตอนในการติดตั้งใช้งาน
+## ขั้นตอนในการติดตั้งใช้งาน
   เวอร์ชั่น Node ที่ใช้ในการ Run Project Version 22.14.0
-  - เข้า Directory frontend เพื่อติดตั้ง Dependencies ต่าง ๆ npm install จากนั้น Run npm run serve
+  ### การติดตั้งและ Run ส่วนของ Backend
   - เข้า Directory backend เพื่อติดตั้ง Dependencies ต่าง ๆ npm install จากนั้น Run node server.js
-
+  ### การติดตั้งและ Run ส่วนของ Frontend
+  - เข้า Directory frontend เพื่อติดตั้ง Dependencies ต่าง ๆ npm install จากนั้น Run npm run serve
 ## Username Password ทดลองใช้งาน
 
  - Username: test1 Password: 999
